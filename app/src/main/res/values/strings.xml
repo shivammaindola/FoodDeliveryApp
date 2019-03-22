@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FoodDeliv</string>
+    <string name="slogan">Food for all</string>
+    <string name="title_activity_home">Home</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="FACEBOOK_APP_ID">352328332026858</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">168aa74039982f6e1ce74ddb83a9ebba</string>
+    <string name="facebook_login_protocol_name">fb352328332026858</string>
+    <string name="title_activity_tracking_order">Map</string>
+
+</resources>
