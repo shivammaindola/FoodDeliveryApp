@@ -5,18 +5,18 @@ This repository contains the source code for the FOOD DELIVERY APP.
 ▷ Tools Used In this Project:</br>
 
  *Android Studio</br>
- *SQLite
- *Firebase: Realtime database
- *Advanced Rest Client
+ *SQLite</br>
+ *Firebase: Realtime database</br>
+ *Advanced Rest Client</br>
 
 
 ▷ In this project we've done:
 
- *Recycler View Implementation
- *Firebase API implementation
- *Google Maps API for realtime Location
- *Integrated Facebook account Kit for login purpose
- *Firebase Messaging
+ *Recycler View Implementation</br>
+ *Firebase API implementation</br>
+ *Google Maps API for realtime Location</br>
+ *Integrated Facebook account Kit for login purpose</br>
+ *Firebase Messaging</br>
 
 
 ▷ If you have any question please ask, I'll try to answer to every question and even look at your code if that is necessary.
