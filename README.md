@@ -2,10 +2,10 @@
 
 This repository contains the source code for the FOOD DELIVERY APP.
 
-▷ Tools Used In this Project:
+▷ Tools Used In this Project:</br>
 
- *Android Studio;
- *SQLite;
+ *Android Studio</br>
+ *SQLite
  *Firebase: Realtime database
  *Advanced Rest Client
 
