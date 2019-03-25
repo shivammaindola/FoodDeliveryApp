@@ -16,7 +16,9 @@ This repository contains the source code for the FOOD DELIVERY APP.
  *Firebase API implementation</br>
  *Google Maps API for realtime Location</br>
  *Integrated Facebook account Kit for login purpose</br>
- *Firebase Messaging</br>
+ *Firebase Messaging for notification</br>
+ *Favorites food feature</br>
+ *Comment on any Food</br>
 
 
 ▷ If you have any question please ask, I'll try to answer to every question and even look at your code if that is necessary.
